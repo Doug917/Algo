@@ -1,6 +1,7 @@
 #binary serach function that works with duplicates.
 def binary_search(keys, query):
-    # write your code here
+
+    
     if keys[0] == query:
         return 0
     low, high = 0, num_keys - 1

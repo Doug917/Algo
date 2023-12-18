@@ -1,4 +1,5 @@
 # Insert element at position i<=len(arr) of array arr.
+# Mimics the built-in python method List.insert.
 arr = [1,3,7,9,1]
 i = 3
 el = 0
